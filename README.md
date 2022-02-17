@@ -1,2 +1,2 @@
 # CyberArenaBuild
-This repo shwos off the current build for our game
+This repo shows off the current build for our game
